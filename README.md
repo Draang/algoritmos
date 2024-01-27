@@ -1,13 +1,23 @@
 # Algoritmos
 ## Description
 
-Este repositorio contiene varios problemas resueltos de leet code.
-Soluciones solo en Python3 por ahora.
-divididos en (easy, medium, hard):
+This repository contains several solved leet code problems.
 
-### 1. Easy:
+Solutions only in Python3 for now.
 
-### 2. Medium
+Divided into (easy, medium, hard):
+
+### [1. Easy:](https://github.com/Draang/algoritmos/tree/main/Easy)
+ | ID   | Problems                   | Code Source |  
+|------|----------------------------|-------------|
+| [#1](https://leetcode.com/problems/two-sum/description/)| Two Sum | [Py🐍](https://github.com/Draang/algoritmos/blob/main/Easy/Python/two_sum.py)      | 
+|      |                            |             | 
+### [2. Medium:](https://github.com/Draang/algoritmos/tree/main/Medium)
+| ID   | Problems                   | Code Source |  
+|------|----------------------------|-------------|
+| [#2](https://leetcode.com/problems/add-two-numbers/description/) | Add Two Numbers | [Py🐍](https://github.com/Draang/algoritmos/blob/main/Medium/Python/add_two_numbers.py) | 
+| [#1143](https://leetcode.com/problems/longest-common-subsequence/description/)| Longest Common Subsequence |  [Py🐍](https://github.com/Draang/algoritmos/blob/main/Medium/Python/subsequence.py) |
+|      |                            |             | 
 ### 3. Hard
 
 
