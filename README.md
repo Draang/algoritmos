@@ -11,7 +11,7 @@ Divided into (easy, medium, hard):
  | ID   | Problems                   | Code Source |  
 |------|----------------------------|-------------|
 | [#1](https://leetcode.com/problems/two-sum/description/)| Two Sum | [Py🐍](https://github.com/Draang/algoritmos/blob/main/Easy/Python/two_sum.py)      | 
-|      |                            |             | 
+|  [#232](https://leetcode.com/problems/implement-queue-using-stacks/description/)|   Implement Queue using Stacks |   [Py🐍](https://github.com/Draang/algoritmos/blob/main/Easy/Python/queue_stack.py)          | 
 ### [2. Medium:](https://github.com/Draang/algoritmos/tree/main/Medium)
 | ID   | Problems                   | Code Source |  
 |------|----------------------------|-------------|
