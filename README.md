@@ -17,7 +17,6 @@ Divided into (easy, medium, hard):
 |------|----------------------------|-------------|
 | [#2](https://leetcode.com/problems/add-two-numbers/description/) | Add Two Numbers | [Py🐍](https://github.com/Draang/algoritmos/blob/main/Medium/Python/add_two_numbers.py) | 
 | [#1143](https://leetcode.com/problems/longest-common-subsequence/description/)| Longest Common Subsequence |  [Py🐍](https://github.com/Draang/algoritmos/blob/main/Medium/Python/subsequence.py) |
-|      |                            |             | 
+|  [#150](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)   |  Evaluate Reverse Polish Notation |   [Py🐍](https://github.com/Draang/algoritmos/blob/main/Medium/Python/evaluate_reverse_polish_notation.py)          | 
 ### 3. Hard
-
 
